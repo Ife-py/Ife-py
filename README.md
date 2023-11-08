@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ife-py
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on different projects so as to expand my scope of software development
+- 💞️ I’m looking to collaborate with several other people on different projects so as to expand my scope of software development
 - 📫 How to reach me contact @omolekeifeoluwa2005@gmail.com
 
 <!---
