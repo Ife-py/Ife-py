@@ -5,7 +5,7 @@
 - 📫 How to reach me contact @omolekeifeoluwa2005@gmail.com
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ife-py&show_icons=true&theme=radical)
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ife-py&layout=compact&theme=radical)
-- ![Twitter Follow](https://img.shields.io/linkeldn/follow/Ifeoluwa_Omoleke?style=social)
+- ![Linkeldn Follow](https://img.shields.io/linkeldn/follow/Ifeoluwa_Omoleke?style=social)
 
 
 
